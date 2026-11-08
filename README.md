@@ -1,3 +1,5 @@
+# Note: This codebase is currently being organized. The complete source code, configuration files, and pre-trained weights will be uploaded and organized shortly—well before the final publication date.
+
 # HYFR
 Physics-Informed Hybrid Flow Refinement (HyFR) for PET. Combines Conditional Flow Matching priors with a dynamic fusion schedule and exact FISTA convergence.
 # HyFR: Physics-Informed Hybrid Flow Refinement for PET Reconstruction
